@@ -55,11 +55,6 @@
     
     if (response.error) {
         NSLog(@"error: %@", response.error);
-        
-        UIAlertView *aView = [[UIAlertView alloc] init];
-        [aView setTitle:@"error"];
-        [aView setMessage:response.error.localizedDescription];
-        [aView show];
         return;
     }
     
