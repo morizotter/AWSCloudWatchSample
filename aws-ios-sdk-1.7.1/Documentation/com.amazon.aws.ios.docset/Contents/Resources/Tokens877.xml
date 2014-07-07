@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SQSResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SQSResponse</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SQSResponse.h</DeclaredIn>
+            
+			
+			<NodeRef refid="877"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SQSResponse/getDateFromResponse</TokenIdentifier>
+			<Abstract type="html">return date from the response header</Abstract>
+			<DeclaredIn>SQSResponse.h</DeclaredIn>
+			
+			<Declaration>- (NSDate *)getDateFromResponse</Declaration>
+			
+			
+			<Anchor>//api/name/getDateFromResponse</Anchor>
+            <NodeRef refid="877"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

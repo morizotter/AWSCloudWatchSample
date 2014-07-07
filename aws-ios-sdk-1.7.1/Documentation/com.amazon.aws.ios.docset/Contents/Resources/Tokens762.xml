@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SESVerifyDomainDkimResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SESVerifyDomainDkimResponse</TokenIdentifier>
+			<Abstract type="html">Verify Domain Dkim Result</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+            
+			
+			<NodeRef refid="762"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SESVerifyDomainDkimResponse/setException:</TokenIdentifier>
+			<Abstract type="html">If an exception was thrown, this will return the exception.</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+			
+			<Declaration>- (void)setException:(AmazonServiceException *)theException</Declaration>
+			
+			
+			<Anchor>//api/name/setException:</Anchor>
+            <NodeRef refid="762"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SESVerifyDomainDkimResponse/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="762"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SESVerifyDomainDkimResponse/setDkimTokens:</TokenIdentifier>
+			<Abstract type="html">A set of character strings that represent the domain&apos;s identity. If
+the identity is an email address, the tokens represent the domain of
+that address. &lt;p&gt;Using these tokens, you will need to create DNS CNAME
+records that point to DKIM public keys hosted by Amazon SES. Amazon
+Web Services will eventually detect that you have updated your DNS
+records; this detection process may take up to 72 hours. Upon
+successful detection, Amazon SES will be able to DKIM-sign emails
+originating from that domain. &lt;p&gt;For more information about creating
+DNS records using DKIM tokens, go to the &lt;a
+mazon.com/ses/latest/DeveloperGuide/easy-dkim-dns-records.html&quot;&gt;Amazon
+SES Developer Guide&lt;/a&gt;.</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *dkimTokens</Declaration>
+			
+			
+			<Anchor>//api/name/dkimTokens</Anchor>
+            <NodeRef refid="762"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SESVerifyDomainDkimResponse/dkimTokens</TokenIdentifier>
+			<Abstract type="html">A set of character strings that represent the domain&apos;s identity. If
+the identity is an email address, the tokens represent the domain of
+that address. &lt;p&gt;Using these tokens, you will need to create DNS CNAME
+records that point to DKIM public keys hosted by Amazon SES. Amazon
+Web Services will eventually detect that you have updated your DNS
+records; this detection process may take up to 72 hours. Upon
+successful detection, Amazon SES will be able to DKIM-sign emails
+originating from that domain. &lt;p&gt;For more information about creating
+DNS records using DKIM tokens, go to the &lt;a
+mazon.com/ses/latest/DeveloperGuide/easy-dkim-dns-records.html&quot;&gt;Amazon
+SES Developer Guide&lt;/a&gt;.</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *dkimTokens</Declaration>
+			
+			
+			<Anchor>//api/name/dkimTokens</Anchor>
+            <NodeRef refid="762"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SESVerifyDomainDkimResponse/dkimTokens</TokenIdentifier>
+			<Abstract type="html">A set of character strings that represent the domain&apos;s identity. If
+the identity is an email address, the tokens represent the domain of
+that address. &lt;p&gt;Using these tokens, you will need to create DNS CNAME
+records that point to DKIM public keys hosted by Amazon SES. Amazon
+Web Services will eventually detect that you have updated your DNS
+records; this detection process may take up to 72 hours. Upon
+successful detection, Amazon SES will be able to DKIM-sign emails
+originating from that domain. &lt;p&gt;For more information about creating
+DNS records using DKIM tokens, go to the &lt;a
+mazon.com/ses/latest/DeveloperGuide/easy-dkim-dns-records.html&quot;&gt;Amazon
+SES Developer Guide&lt;/a&gt;.</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *dkimTokens</Declaration>
+			
+			
+			<Anchor>//api/name/dkimTokens</Anchor>
+            <NodeRef refid="762"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SESVerifyDomainDkimResponse/dkimTokensObjectAtIndex:</TokenIdentifier>
+			<Abstract type="html">Returns a value from the dkimTokens array for the specified index</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)dkimTokensObjectAtIndex:(int)index</Declaration>
+			
+			
+			<Anchor>//api/name/dkimTokensObjectAtIndex:</Anchor>
+            <NodeRef refid="762"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SESVerifyDomainDkimResponse/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>SESVerifyDomainDkimResponse.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="762"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

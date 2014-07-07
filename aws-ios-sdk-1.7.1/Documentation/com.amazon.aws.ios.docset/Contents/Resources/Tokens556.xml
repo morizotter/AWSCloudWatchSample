@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest</TokenIdentifier>
+			<Abstract type="html">Disable Availability Zones For Load Balancer Request</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+            
+			
+			<NodeRef refid="556"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/setLoadBalancerName:</TokenIdentifier>
+			<Abstract type="html">The name associated with the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The name associated with the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The name associated with the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/setAvailabilityZones:</TokenIdentifier>
+			<Abstract type="html">A list of Availability Zones to be removed from the load balancer.
+&lt;note&gt; There must be at least one Availability Zone registered with a
+load balancer at all times. Specified Availability Zones must be in
+the same region. &lt;/note&gt;</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *availabilityZones</Declaration>
+			
+			
+			<Anchor>//api/name/availabilityZones</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/availabilityZones</TokenIdentifier>
+			<Abstract type="html">A list of Availability Zones to be removed from the load balancer.
+&lt;note&gt; There must be at least one Availability Zone registered with a
+load balancer at all times. Specified Availability Zones must be in
+the same region. &lt;/note&gt;</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *availabilityZones</Declaration>
+			
+			
+			<Anchor>//api/name/availabilityZones</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/availabilityZones</TokenIdentifier>
+			<Abstract type="html">A list of Availability Zones to be removed from the load balancer.
+&lt;note&gt; There must be at least one Availability Zone registered with a
+load balancer at all times. Specified Availability Zones must be in
+the same region. &lt;/note&gt;</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *availabilityZones</Declaration>
+			
+			
+			<Anchor>//api/name/availabilityZones</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new DisableAvailabilityZonesForLoadBalancerRequest object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/initWithLoadBalancerName:andAvailabilityZones:</TokenIdentifier>
+			<Abstract type="html">Constructs a new DisableAvailabilityZonesForLoadBalancerRequest object.
+Callers should use properties to initialize any additional object members.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithLoadBalancerName:(NSString *)theLoadBalancerName andAvailabilityZones:(NSMutableArray *)theAvailabilityZones</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>theLoadBalancerName</Name>
+					<Abstract type="html">The name associated with the load balancer.</Abstract>
+				</Parameter><Parameter>
+					<Name>theAvailabilityZones</Name>
+					<Abstract type="html">A list of Availability Zones to be removed
+from the load balancer. &lt;note&gt; There must be at least one Availability
+Zone registered with a load balancer at all times. Specified
+Availability Zones must be in the same region. &lt;/note&gt;</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithLoadBalancerName:andAvailabilityZones:</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/addAvailabilityZone:</TokenIdentifier>
+			<Abstract type="html">Adds a single object to availabilityZones.
+This function will alloc and init availabilityZones if not already done.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (void)addAvailabilityZone:(NSString *)availabilityZoneObject</Declaration>
+			
+			
+			<Anchor>//api/name/addAvailabilityZone:</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDisableAvailabilityZonesForLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="556"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

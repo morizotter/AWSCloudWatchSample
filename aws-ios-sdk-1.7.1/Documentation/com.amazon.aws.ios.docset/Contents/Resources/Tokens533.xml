@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ElasticLoadBalancingCreateLoadBalancerRequest.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ElasticLoadBalancingCreateLoadBalancerRequest</TokenIdentifier>
+			<Abstract type="html">Create Load Balancer Request</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+            
+			
+			<NodeRef refid="533"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/setLoadBalancerName:</TokenIdentifier>
+			<Abstract type="html">The name associated with the load balancer. The name must be unique
+within your set of load balancers.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The name associated with the load balancer. The name must be unique
+within your set of load balancers.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingCreateLoadBalancerRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The name associated with the load balancer. The name must be unique
+within your set of load balancers.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/setListeners:</TokenIdentifier>
+			<Abstract type="html">A list of the following tuples: LoadBalancerPort, InstancePort, and
+Protocol.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *listeners</Declaration>
+			
+			
+			<Anchor>//api/name/listeners</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/listeners</TokenIdentifier>
+			<Abstract type="html">A list of the following tuples: LoadBalancerPort, InstancePort, and
+Protocol.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *listeners</Declaration>
+			
+			
+			<Anchor>//api/name/listeners</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingCreateLoadBalancerRequest/listeners</TokenIdentifier>
+			<Abstract type="html">A list of the following tuples: LoadBalancerPort, InstancePort, and
+Protocol.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *listeners</Declaration>
+			
+			
+			<Anchor>//api/name/listeners</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/setAvailabilityZones:</TokenIdentifier>
+			<Abstract type="html">A list of Availability Zones. &lt;p&gt; At least one Availability Zone must
+be specified. Specified Availability Zones must be in the same EC2
+Region as the load balancer. Traffic will be equally distributed
+across all zones. &lt;p&gt; You can later add more Availability Zones after
+the creation of the load balancer by calling
+&lt;a&gt;EnableAvailabilityZonesForLoadBalancer&lt;/a&gt; action.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *availabilityZones</Declaration>
+			
+			
+			<Anchor>//api/name/availabilityZones</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/availabilityZones</TokenIdentifier>
+			<Abstract type="html">A list of Availability Zones. &lt;p&gt; At least one Availability Zone must
+be specified. Specified Availability Zones must be in the same EC2
+Region as the load balancer. Traffic will be equally distributed
+across all zones. &lt;p&gt; You can later add more Availability Zones after
+the creation of the load balancer by calling
+&lt;a&gt;EnableAvailabilityZonesForLoadBalancer&lt;/a&gt; action.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *availabilityZones</Declaration>
+			
+			
+			<Anchor>//api/name/availabilityZones</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingCreateLoadBalancerRequest/availabilityZones</TokenIdentifier>
+			<Abstract type="html">A list of Availability Zones. &lt;p&gt; At least one Availability Zone must
+be specified. Specified Availability Zones must be in the same EC2
+Region as the load balancer. Traffic will be equally distributed
+across all zones. &lt;p&gt; You can later add more Availability Zones after
+the creation of the load balancer by calling
+&lt;a&gt;EnableAvailabilityZonesForLoadBalancer&lt;/a&gt; action.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *availabilityZones</Declaration>
+			
+			
+			<Anchor>//api/name/availabilityZones</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/setSubnets:</TokenIdentifier>
+			<Abstract type="html">A list of subnet IDs in your VPC to attach to your load balancer.
+Specify one subnet per Availability Zone.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *subnets</Declaration>
+			
+			
+			<Anchor>//api/name/subnets</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/subnets</TokenIdentifier>
+			<Abstract type="html">A list of subnet IDs in your VPC to attach to your load balancer.
+Specify one subnet per Availability Zone.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *subnets</Declaration>
+			
+			
+			<Anchor>//api/name/subnets</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingCreateLoadBalancerRequest/subnets</TokenIdentifier>
+			<Abstract type="html">A list of subnet IDs in your VPC to attach to your load balancer.
+Specify one subnet per Availability Zone.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *subnets</Declaration>
+			
+			
+			<Anchor>//api/name/subnets</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/setSecurityGroups:</TokenIdentifier>
+			<Abstract type="html">The security groups to assign to your load balancer within your VPC.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *securityGroups</Declaration>
+			
+			
+			<Anchor>//api/name/securityGroups</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/securityGroups</TokenIdentifier>
+			<Abstract type="html">The security groups to assign to your load balancer within your VPC.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *securityGroups</Declaration>
+			
+			
+			<Anchor>//api/name/securityGroups</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingCreateLoadBalancerRequest/securityGroups</TokenIdentifier>
+			<Abstract type="html">The security groups to assign to your load balancer within your VPC.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *securityGroups</Declaration>
+			
+			
+			<Anchor>//api/name/securityGroups</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/setScheme:</TokenIdentifier>
+			<Abstract type="html">The type of a load balancer. &lt;p&gt;By default, Elastic Load Balancing
+creates an Internet-facing load balancer with a publicly resolvable
+DNS name, which resolves to public IP addresses. For more
+informationabout Internet-facing and Internal load balancers, see &lt;a
+ing/latest/DeveloperGuide/vpc-loadbalancer-types.html&quot;&gt;Internet-facing
+and Internal Load Balancers&lt;/a&gt;. &lt;p&gt;Specify the value
+&lt;code&gt;internal&lt;/code&gt; for this option to create an internal load
+balancer with a DNS name that resolves to private IP addresses. &lt;note&gt;
+&lt;p&gt;This option is only available for load balancers created within
+EC2-VPC. &lt;/note&gt;</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *scheme</Declaration>
+			
+			
+			<Anchor>//api/name/scheme</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/scheme</TokenIdentifier>
+			<Abstract type="html">The type of a load balancer. &lt;p&gt;By default, Elastic Load Balancing
+creates an Internet-facing load balancer with a publicly resolvable
+DNS name, which resolves to public IP addresses. For more
+informationabout Internet-facing and Internal load balancers, see &lt;a
+ing/latest/DeveloperGuide/vpc-loadbalancer-types.html&quot;&gt;Internet-facing
+and Internal Load Balancers&lt;/a&gt;. &lt;p&gt;Specify the value
+&lt;code&gt;internal&lt;/code&gt; for this option to create an internal load
+balancer with a DNS name that resolves to private IP addresses. &lt;note&gt;
+&lt;p&gt;This option is only available for load balancers created within
+EC2-VPC. &lt;/note&gt;</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *scheme</Declaration>
+			
+			
+			<Anchor>//api/name/scheme</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingCreateLoadBalancerRequest/scheme</TokenIdentifier>
+			<Abstract type="html">The type of a load balancer. &lt;p&gt;By default, Elastic Load Balancing
+creates an Internet-facing load balancer with a publicly resolvable
+DNS name, which resolves to public IP addresses. For more
+informationabout Internet-facing and Internal load balancers, see &lt;a
+ing/latest/DeveloperGuide/vpc-loadbalancer-types.html&quot;&gt;Internet-facing
+and Internal Load Balancers&lt;/a&gt;. &lt;p&gt;Specify the value
+&lt;code&gt;internal&lt;/code&gt; for this option to create an internal load
+balancer with a DNS name that resolves to private IP addresses. &lt;note&gt;
+&lt;p&gt;This option is only available for load balancers created within
+EC2-VPC. &lt;/note&gt;</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *scheme</Declaration>
+			
+			
+			<Anchor>//api/name/scheme</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new CreateLoadBalancerRequest object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/initWithLoadBalancerName:</TokenIdentifier>
+			<Abstract type="html">Constructs a new CreateLoadBalancerRequest object.
+Callers should use properties to initialize any additional object members.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithLoadBalancerName:(NSString *)theLoadBalancerName</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>theLoadBalancerName</Name>
+					<Abstract type="html">The name associated with the load balancer.
+The name must be unique within your set of load balancers.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithLoadBalancerName:</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/initWithLoadBalancerName:andListeners:andAvailabilityZones:</TokenIdentifier>
+			<Abstract type="html">Constructs a new CreateLoadBalancerRequest object.
+Callers should use properties to initialize any additional object members.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithLoadBalancerName:(NSString *)theLoadBalancerName andListeners:(NSMutableArray *)theListeners andAvailabilityZones:(NSMutableArray *)theAvailabilityZones</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>theLoadBalancerName</Name>
+					<Abstract type="html">The name associated with the load balancer.
+The name must be unique within your set of load balancers.</Abstract>
+				</Parameter><Parameter>
+					<Name>theListeners</Name>
+					<Abstract type="html">A list of the following tuples: LoadBalancerPort,
+InstancePort, and Protocol.</Abstract>
+				</Parameter><Parameter>
+					<Name>theAvailabilityZones</Name>
+					<Abstract type="html">A list of Availability Zones. &lt;p&gt; At least
+one Availability Zone must be specified. Specified Availability Zones
+must be in the same EC2 Region as the load balancer. Traffic will be
+equally distributed across all zones. &lt;p&gt; You can later add more
+Availability Zones after the creation of the load balancer by calling
+&lt;a&gt;EnableAvailabilityZonesForLoadBalancer&lt;/a&gt; action.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithLoadBalancerName:andListeners:andAvailabilityZones:</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/addListener:</TokenIdentifier>
+			<Abstract type="html">Adds a single object to listeners.
+This function will alloc and init listeners if not already done.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (void)addListener:(ElasticLoadBalancingListener *)listenerObject</Declaration>
+			
+			
+			<Anchor>//api/name/addListener:</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/addAvailabilityZone:</TokenIdentifier>
+			<Abstract type="html">Adds a single object to availabilityZones.
+This function will alloc and init availabilityZones if not already done.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (void)addAvailabilityZone:(NSString *)availabilityZoneObject</Declaration>
+			
+			
+			<Anchor>//api/name/addAvailabilityZone:</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/addSubnet:</TokenIdentifier>
+			<Abstract type="html">Adds a single object to subnets.
+This function will alloc and init subnets if not already done.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (void)addSubnet:(NSString *)subnetObject</Declaration>
+			
+			
+			<Anchor>//api/name/addSubnet:</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/addSecurityGroup:</TokenIdentifier>
+			<Abstract type="html">Adds a single object to securityGroups.
+This function will alloc and init securityGroups if not already done.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (void)addSecurityGroup:(NSString *)securityGroupObject</Declaration>
+			
+			
+			<Anchor>//api/name/addSecurityGroup:</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingCreateLoadBalancerRequest/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingCreateLoadBalancerRequest.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="533"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

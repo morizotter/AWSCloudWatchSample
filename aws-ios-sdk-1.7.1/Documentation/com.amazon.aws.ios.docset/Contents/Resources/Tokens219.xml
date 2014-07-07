@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/DynamoDBUpdateGlobalSecondaryIndexAction.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/DynamoDBUpdateGlobalSecondaryIndexAction</TokenIdentifier>
+			<Abstract type="html">Update Global Secondary Index Action</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+            
+			
+			<NodeRef refid="219"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBUpdateGlobalSecondaryIndexAction/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBUpdateGlobalSecondaryIndexAction/setIndexName:</TokenIdentifier>
+			<Abstract type="html">The name of the global secondary index to be updated.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *indexName</Declaration>
+			
+			
+			<Anchor>//api/name/indexName</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBUpdateGlobalSecondaryIndexAction/indexName</TokenIdentifier>
+			<Abstract type="html">The name of the global secondary index to be updated.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *indexName</Declaration>
+			
+			
+			<Anchor>//api/name/indexName</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBUpdateGlobalSecondaryIndexAction/indexName</TokenIdentifier>
+			<Abstract type="html">The name of the global secondary index to be updated.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *indexName</Declaration>
+			
+			
+			<Anchor>//api/name/indexName</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBUpdateGlobalSecondaryIndexAction/setProvisionedThroughput:</TokenIdentifier>
+			<Abstract type="html">Represents the provisioned throughput settings for a specified table
+or index. The settings can be modified using the &lt;i&gt;UpdateTable&lt;/i&gt;
+operation. &lt;p&gt;For current minimum and maximum provisioned throughput
+values, see &lt;a
+mazon.com/amazondynamodb/latest/developerguide/Limits.html&quot;&gt;Limits&lt;/a&gt;
+in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProvisionedThroughput *provisionedThroughput</Declaration>
+			
+			
+			<Anchor>//api/name/provisionedThroughput</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBUpdateGlobalSecondaryIndexAction/provisionedThroughput</TokenIdentifier>
+			<Abstract type="html">Represents the provisioned throughput settings for a specified table
+or index. The settings can be modified using the &lt;i&gt;UpdateTable&lt;/i&gt;
+operation. &lt;p&gt;For current minimum and maximum provisioned throughput
+values, see &lt;a
+mazon.com/amazondynamodb/latest/developerguide/Limits.html&quot;&gt;Limits&lt;/a&gt;
+in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProvisionedThroughput *provisionedThroughput</Declaration>
+			
+			
+			<Anchor>//api/name/provisionedThroughput</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBUpdateGlobalSecondaryIndexAction/provisionedThroughput</TokenIdentifier>
+			<Abstract type="html">Represents the provisioned throughput settings for a specified table
+or index. The settings can be modified using the &lt;i&gt;UpdateTable&lt;/i&gt;
+operation. &lt;p&gt;For current minimum and maximum provisioned throughput
+values, see &lt;a
+mazon.com/amazondynamodb/latest/developerguide/Limits.html&quot;&gt;Limits&lt;/a&gt;
+in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProvisionedThroughput *provisionedThroughput</Declaration>
+			
+			
+			<Anchor>//api/name/provisionedThroughput</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBUpdateGlobalSecondaryIndexAction/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>DynamoDBUpdateGlobalSecondaryIndexAction.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="219"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

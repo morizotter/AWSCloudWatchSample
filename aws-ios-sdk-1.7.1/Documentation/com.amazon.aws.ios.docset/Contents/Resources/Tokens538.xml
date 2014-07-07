@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest</TokenIdentifier>
+			<Abstract type="html">Delete Load Balancer Policy Request</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+            
+			
+			<NodeRef refid="538"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/setLoadBalancerName:</TokenIdentifier>
+			<Abstract type="html">The mnemonic name associated with the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The mnemonic name associated with the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The mnemonic name associated with the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/setPolicyName:</TokenIdentifier>
+			<Abstract type="html">The mnemonic name for the policy being deleted.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *policyName</Declaration>
+			
+			
+			<Anchor>//api/name/policyName</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/policyName</TokenIdentifier>
+			<Abstract type="html">The mnemonic name for the policy being deleted.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *policyName</Declaration>
+			
+			
+			<Anchor>//api/name/policyName</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/policyName</TokenIdentifier>
+			<Abstract type="html">The mnemonic name for the policy being deleted.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *policyName</Declaration>
+			
+			
+			<Anchor>//api/name/policyName</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new DeleteLoadBalancerPolicyRequest object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/initWithLoadBalancerName:andPolicyName:</TokenIdentifier>
+			<Abstract type="html">Constructs a new DeleteLoadBalancerPolicyRequest object.
+Callers should use properties to initialize any additional object members.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithLoadBalancerName:(NSString *)theLoadBalancerName andPolicyName:(NSString *)thePolicyName</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>theLoadBalancerName</Name>
+					<Abstract type="html">The mnemonic name associated with the load
+balancer.</Abstract>
+				</Parameter><Parameter>
+					<Name>thePolicyName</Name>
+					<Abstract type="html">The mnemonic name for the policy being deleted.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithLoadBalancerName:andPolicyName:</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDeleteLoadBalancerPolicyRequest/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDeleteLoadBalancerPolicyRequest.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="538"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

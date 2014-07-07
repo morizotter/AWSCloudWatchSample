@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/DynamoDBGlobalSecondaryIndex.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/DynamoDBGlobalSecondaryIndex</TokenIdentifier>
+			<Abstract type="html">Global Secondary Index</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+            
+			
+			<NodeRef refid="190"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/setIndexName:</TokenIdentifier>
+			<Abstract type="html">The name of the global secondary index. The name must be unique among
+all other indexes on this table.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *indexName</Declaration>
+			
+			
+			<Anchor>//api/name/indexName</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/indexName</TokenIdentifier>
+			<Abstract type="html">The name of the global secondary index. The name must be unique among
+all other indexes on this table.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *indexName</Declaration>
+			
+			
+			<Anchor>//api/name/indexName</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBGlobalSecondaryIndex/indexName</TokenIdentifier>
+			<Abstract type="html">The name of the global secondary index. The name must be unique among
+all other indexes on this table.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *indexName</Declaration>
+			
+			
+			<Anchor>//api/name/indexName</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/setKeySchema:</TokenIdentifier>
+			<Abstract type="html">The complete key schema for a global secondary index, which consists
+of one or more pairs of attribute names and key types
+(&lt;code&gt;HASH&lt;/code&gt; or &lt;code&gt;RANGE&lt;/code&gt;).
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;1 - 2&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *keySchema</Declaration>
+			
+			
+			<Anchor>//api/name/keySchema</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/keySchema</TokenIdentifier>
+			<Abstract type="html">The complete key schema for a global secondary index, which consists
+of one or more pairs of attribute names and key types
+(&lt;code&gt;HASH&lt;/code&gt; or &lt;code&gt;RANGE&lt;/code&gt;).
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;1 - 2&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *keySchema</Declaration>
+			
+			
+			<Anchor>//api/name/keySchema</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBGlobalSecondaryIndex/keySchema</TokenIdentifier>
+			<Abstract type="html">The complete key schema for a global secondary index, which consists
+of one or more pairs of attribute names and key types
+(&lt;code&gt;HASH&lt;/code&gt; or &lt;code&gt;RANGE&lt;/code&gt;).
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;1 - 2&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *keySchema</Declaration>
+			
+			
+			<Anchor>//api/name/keySchema</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/setProjection:</TokenIdentifier>
+			<Abstract type="html">Represents attributes that are copied (projected) from the table into
+an index. These are in addition to the primary key attributes and
+index key attributes, which are automatically projected.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProjection *projection</Declaration>
+			
+			
+			<Anchor>//api/name/projection</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/projection</TokenIdentifier>
+			<Abstract type="html">Represents attributes that are copied (projected) from the table into
+an index. These are in addition to the primary key attributes and
+index key attributes, which are automatically projected.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProjection *projection</Declaration>
+			
+			
+			<Anchor>//api/name/projection</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBGlobalSecondaryIndex/projection</TokenIdentifier>
+			<Abstract type="html">Represents attributes that are copied (projected) from the table into
+an index. These are in addition to the primary key attributes and
+index key attributes, which are automatically projected.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProjection *projection</Declaration>
+			
+			
+			<Anchor>//api/name/projection</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/setProvisionedThroughput:</TokenIdentifier>
+			<Abstract type="html">Represents the provisioned throughput settings for a specified table
+or index. The settings can be modified using the &lt;i&gt;UpdateTable&lt;/i&gt;
+operation. &lt;p&gt;For current minimum and maximum provisioned throughput
+values, see &lt;a
+mazon.com/amazondynamodb/latest/developerguide/Limits.html&quot;&gt;Limits&lt;/a&gt;
+in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProvisionedThroughput *provisionedThroughput</Declaration>
+			
+			
+			<Anchor>//api/name/provisionedThroughput</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/provisionedThroughput</TokenIdentifier>
+			<Abstract type="html">Represents the provisioned throughput settings for a specified table
+or index. The settings can be modified using the &lt;i&gt;UpdateTable&lt;/i&gt;
+operation. &lt;p&gt;For current minimum and maximum provisioned throughput
+values, see &lt;a
+mazon.com/amazondynamodb/latest/developerguide/Limits.html&quot;&gt;Limits&lt;/a&gt;
+in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProvisionedThroughput *provisionedThroughput</Declaration>
+			
+			
+			<Anchor>//api/name/provisionedThroughput</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBGlobalSecondaryIndex/provisionedThroughput</TokenIdentifier>
+			<Abstract type="html">Represents the provisioned throughput settings for a specified table
+or index. The settings can be modified using the &lt;i&gt;UpdateTable&lt;/i&gt;
+operation. &lt;p&gt;For current minimum and maximum provisioned throughput
+values, see &lt;a
+mazon.com/amazondynamodb/latest/developerguide/Limits.html&quot;&gt;Limits&lt;/a&gt;
+in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBProvisionedThroughput *provisionedThroughput</Declaration>
+			
+			
+			<Anchor>//api/name/provisionedThroughput</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/addKeySchema:</TokenIdentifier>
+			<Abstract type="html">Adds a single object to keySchema.
+This function will alloc and init keySchema if not already done.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>- (void)addKeySchema:(DynamoDBKeySchemaElement *)keySchemaObject</Declaration>
+			
+			
+			<Anchor>//api/name/addKeySchema:</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBGlobalSecondaryIndex/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>DynamoDBGlobalSecondaryIndex.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="190"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

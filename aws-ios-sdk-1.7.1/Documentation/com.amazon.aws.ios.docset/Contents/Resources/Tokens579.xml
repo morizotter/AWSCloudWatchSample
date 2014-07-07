@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ElasticLoadBalancingModifyLoadBalancerAttributesRequest.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ElasticLoadBalancingModifyLoadBalancerAttributesRequest</TokenIdentifier>
+			<Abstract type="html">Modify Load Balancer Attributes Request</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+            
+			
+			<NodeRef refid="579"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/setLoadBalancerName:</TokenIdentifier>
+			<Abstract type="html">The name of the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The name of the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/loadBalancerName</TokenIdentifier>
+			<Abstract type="html">The name of the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *loadBalancerName</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerName</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/setLoadBalancerAttributes:</TokenIdentifier>
+			<Abstract type="html">Attributes of the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingLoadBalancerAttributes *loadBalancerAttributes</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerAttributes</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/loadBalancerAttributes</TokenIdentifier>
+			<Abstract type="html">Attributes of the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingLoadBalancerAttributes *loadBalancerAttributes</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerAttributes</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/loadBalancerAttributes</TokenIdentifier>
+			<Abstract type="html">Attributes of the load balancer.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingLoadBalancerAttributes *loadBalancerAttributes</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerAttributes</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingModifyLoadBalancerAttributesRequest/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingModifyLoadBalancerAttributesRequest.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="579"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

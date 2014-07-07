@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/DynamoDBScanResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/DynamoDBScanResponse</TokenIdentifier>
+			<Abstract type="html">Scan Result</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+            
+			
+			<NodeRef refid="217"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/setException:</TokenIdentifier>
+			<Abstract type="html">If an exception was thrown, this will return the exception.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>- (void)setException:(AmazonServiceException *)theException</Declaration>
+			
+			
+			<Anchor>//api/name/setException:</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/setItems:</TokenIdentifier>
+			<Abstract type="html">An array of item attributes that match the scan criteria. Each element
+in this array consists of an attribute name and the value for that
+attribute.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *items</Declaration>
+			
+			
+			<Anchor>//api/name/items</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/items</TokenIdentifier>
+			<Abstract type="html">An array of item attributes that match the scan criteria. Each element
+in this array consists of an attribute name and the value for that
+attribute.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *items</Declaration>
+			
+			
+			<Anchor>//api/name/items</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBScanResponse/items</TokenIdentifier>
+			<Abstract type="html">An array of item attributes that match the scan criteria. Each element
+in this array consists of an attribute name and the value for that
+attribute.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *items</Declaration>
+			
+			
+			<Anchor>//api/name/items</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/setCount:</TokenIdentifier>
+			<Abstract type="html">The number of items in the response.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *count</Declaration>
+			
+			
+			<Anchor>//api/name/count</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/count</TokenIdentifier>
+			<Abstract type="html">The number of items in the response.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *count</Declaration>
+			
+			
+			<Anchor>//api/name/count</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBScanResponse/count</TokenIdentifier>
+			<Abstract type="html">The number of items in the response.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *count</Declaration>
+			
+			
+			<Anchor>//api/name/count</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/setScannedCount:</TokenIdentifier>
+			<Abstract type="html">The number of items in the complete scan, before any filters are
+applied. A high &lt;i&gt;ScannedCount&lt;/i&gt; value with few, or no,
+&lt;i&gt;Count&lt;/i&gt; results indicates an inefficient &lt;i&gt;Scan&lt;/i&gt; operation.
+For more information, see &lt;a
+om/amazondynamodb/latest/developerguide/QueryAndScan.html#Count&quot;&gt;Count
+and ScannedCount&lt;/a&gt; in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *scannedCount</Declaration>
+			
+			
+			<Anchor>//api/name/scannedCount</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/scannedCount</TokenIdentifier>
+			<Abstract type="html">The number of items in the complete scan, before any filters are
+applied. A high &lt;i&gt;ScannedCount&lt;/i&gt; value with few, or no,
+&lt;i&gt;Count&lt;/i&gt; results indicates an inefficient &lt;i&gt;Scan&lt;/i&gt; operation.
+For more information, see &lt;a
+om/amazondynamodb/latest/developerguide/QueryAndScan.html#Count&quot;&gt;Count
+and ScannedCount&lt;/a&gt; in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *scannedCount</Declaration>
+			
+			
+			<Anchor>//api/name/scannedCount</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBScanResponse/scannedCount</TokenIdentifier>
+			<Abstract type="html">The number of items in the complete scan, before any filters are
+applied. A high &lt;i&gt;ScannedCount&lt;/i&gt; value with few, or no,
+&lt;i&gt;Count&lt;/i&gt; results indicates an inefficient &lt;i&gt;Scan&lt;/i&gt; operation.
+For more information, see &lt;a
+om/amazondynamodb/latest/developerguide/QueryAndScan.html#Count&quot;&gt;Count
+and ScannedCount&lt;/a&gt; in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *scannedCount</Declaration>
+			
+			
+			<Anchor>//api/name/scannedCount</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/setLastEvaluatedKey:</TokenIdentifier>
+			<Abstract type="html">The primary key of the item where the operation stopped, inclusive of
+the previous result set. Use this value to start a new operation,
+excluding this value in the new request. &lt;p&gt;If &lt;i&gt;LastEvaluatedKey&lt;/i&gt;
+is null, then the &quot;last page&quot; of results has been processed and there
+is no more data to be retrieved. &lt;p&gt;If &lt;i&gt;LastEvaluatedKey&lt;/i&gt; is
+anything other than null, this does not necessarily mean that there is
+more data in the result set. The only way to know when you have
+reached the end of the result set is when &lt;i&gt;LastEvaluatedKey&lt;/i&gt; is
+null.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *lastEvaluatedKey</Declaration>
+			
+			
+			<Anchor>//api/name/lastEvaluatedKey</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/lastEvaluatedKey</TokenIdentifier>
+			<Abstract type="html">The primary key of the item where the operation stopped, inclusive of
+the previous result set. Use this value to start a new operation,
+excluding this value in the new request. &lt;p&gt;If &lt;i&gt;LastEvaluatedKey&lt;/i&gt;
+is null, then the &quot;last page&quot; of results has been processed and there
+is no more data to be retrieved. &lt;p&gt;If &lt;i&gt;LastEvaluatedKey&lt;/i&gt; is
+anything other than null, this does not necessarily mean that there is
+more data in the result set. The only way to know when you have
+reached the end of the result set is when &lt;i&gt;LastEvaluatedKey&lt;/i&gt; is
+null.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *lastEvaluatedKey</Declaration>
+			
+			
+			<Anchor>//api/name/lastEvaluatedKey</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBScanResponse/lastEvaluatedKey</TokenIdentifier>
+			<Abstract type="html">The primary key of the item where the operation stopped, inclusive of
+the previous result set. Use this value to start a new operation,
+excluding this value in the new request. &lt;p&gt;If &lt;i&gt;LastEvaluatedKey&lt;/i&gt;
+is null, then the &quot;last page&quot; of results has been processed and there
+is no more data to be retrieved. &lt;p&gt;If &lt;i&gt;LastEvaluatedKey&lt;/i&gt; is
+anything other than null, this does not necessarily mean that there is
+more data in the result set. The only way to know when you have
+reached the end of the result set is when &lt;i&gt;LastEvaluatedKey&lt;/i&gt; is
+null.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *lastEvaluatedKey</Declaration>
+			
+			
+			<Anchor>//api/name/lastEvaluatedKey</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/setConsumedCapacity:</TokenIdentifier>
+			<Abstract type="html">Represents the capacity units consumed by an operation. The data
+returned includes the total provisioned throughput consumed, along
+with statistics for the table and any indexes involved in the
+operation. &lt;i&gt;ConsumedCapacity&lt;/i&gt; is only returned if it was asked
+for in the request. For more information, see &lt;a
+odb/latest/developerguide/ProvisionedThroughputIntro.html&quot;&gt;Provisioned
+Throughput&lt;/a&gt; in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBConsumedCapacity *consumedCapacity</Declaration>
+			
+			
+			<Anchor>//api/name/consumedCapacity</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/consumedCapacity</TokenIdentifier>
+			<Abstract type="html">Represents the capacity units consumed by an operation. The data
+returned includes the total provisioned throughput consumed, along
+with statistics for the table and any indexes involved in the
+operation. &lt;i&gt;ConsumedCapacity&lt;/i&gt; is only returned if it was asked
+for in the request. For more information, see &lt;a
+odb/latest/developerguide/ProvisionedThroughputIntro.html&quot;&gt;Provisioned
+Throughput&lt;/a&gt; in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBConsumedCapacity *consumedCapacity</Declaration>
+			
+			
+			<Anchor>//api/name/consumedCapacity</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBScanResponse/consumedCapacity</TokenIdentifier>
+			<Abstract type="html">Represents the capacity units consumed by an operation. The data
+returned includes the total provisioned throughput consumed, along
+with statistics for the table and any indexes involved in the
+operation. &lt;i&gt;ConsumedCapacity&lt;/i&gt; is only returned if it was asked
+for in the request. For more information, see &lt;a
+odb/latest/developerguide/ProvisionedThroughputIntro.html&quot;&gt;Provisioned
+Throughput&lt;/a&gt; in the Amazon DynamoDB Developer Guide.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBConsumedCapacity *consumedCapacity</Declaration>
+			
+			
+			<Anchor>//api/name/consumedCapacity</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/itemsObjectAtIndex:</TokenIdentifier>
+			<Abstract type="html">Returns a value from the items array for the specified index</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>- (NSDictionary *)itemsObjectAtIndex:(int)index</Declaration>
+			
+			
+			<Anchor>//api/name/itemsObjectAtIndex:</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/lastEvaluatedKeyValueForKey:</TokenIdentifier>
+			<Abstract type="html">Returns a value from the lastEvaluatedKey dictionary for the specified key.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>- (DynamoDBAttributeValue *)lastEvaluatedKeyValueForKey:(NSString *)theKey</Declaration>
+			
+			
+			<Anchor>//api/name/lastEvaluatedKeyValueForKey:</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBScanResponse/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>DynamoDBScanResponse.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="217"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

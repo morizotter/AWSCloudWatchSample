@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/DynamoDBCapacity.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/DynamoDBCapacity</TokenIdentifier>
+			<Abstract type="html">Capacity</Abstract>
+			<DeclaredIn>DynamoDBCapacity.h</DeclaredIn>
+            
+			
+			<NodeRef refid="174"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBCapacity/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>DynamoDBCapacity.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="174"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBCapacity/setCapacityUnits:</TokenIdentifier>
+			<Abstract type="html">The total number of capacity units consumed on a table or an index.</Abstract>
+			<DeclaredIn>DynamoDBCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *capacityUnits</Declaration>
+			
+			
+			<Anchor>//api/name/capacityUnits</Anchor>
+            <NodeRef refid="174"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBCapacity/capacityUnits</TokenIdentifier>
+			<Abstract type="html">The total number of capacity units consumed on a table or an index.</Abstract>
+			<DeclaredIn>DynamoDBCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *capacityUnits</Declaration>
+			
+			
+			<Anchor>//api/name/capacityUnits</Anchor>
+            <NodeRef refid="174"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBCapacity/capacityUnits</TokenIdentifier>
+			<Abstract type="html">The total number of capacity units consumed on a table or an index.</Abstract>
+			<DeclaredIn>DynamoDBCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *capacityUnits</Declaration>
+			
+			
+			<Anchor>//api/name/capacityUnits</Anchor>
+            <NodeRef refid="174"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBCapacity/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>DynamoDBCapacity.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="174"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

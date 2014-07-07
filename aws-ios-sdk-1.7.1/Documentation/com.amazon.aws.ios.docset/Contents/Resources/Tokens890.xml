@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SecurityTokenServiceAssumeRoleWithSAMLResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SecurityTokenServiceAssumeRoleWithSAMLResponse</TokenIdentifier>
+			<Abstract type="html">Assume Role With S A M L Result</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+            
+			
+			<NodeRef refid="890"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/setException:</TokenIdentifier>
+			<Abstract type="html">If an exception was thrown, this will return the exception.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>- (void)setException:(AmazonServiceException *)theException</Declaration>
+			
+			
+			<Anchor>//api/name/setException:</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/setCredentials:</TokenIdentifier>
+			<Abstract type="html">AWS credentials for API authentication.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) SecurityTokenServiceCredentials *credentials</Declaration>
+			
+			
+			<Anchor>//api/name/credentials</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/credentials</TokenIdentifier>
+			<Abstract type="html">AWS credentials for API authentication.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) SecurityTokenServiceCredentials *credentials</Declaration>
+			
+			
+			<Anchor>//api/name/credentials</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SecurityTokenServiceAssumeRoleWithSAMLResponse/credentials</TokenIdentifier>
+			<Abstract type="html">AWS credentials for API authentication.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) SecurityTokenServiceCredentials *credentials</Declaration>
+			
+			
+			<Anchor>//api/name/credentials</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/setAssumedRoleUser:</TokenIdentifier>
+			<Abstract type="html">The identifiers for the temporary security credentials that the
+operation returns.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) SecurityTokenServiceAssumedRoleUser *assumedRoleUser</Declaration>
+			
+			
+			<Anchor>//api/name/assumedRoleUser</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/assumedRoleUser</TokenIdentifier>
+			<Abstract type="html">The identifiers for the temporary security credentials that the
+operation returns.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) SecurityTokenServiceAssumedRoleUser *assumedRoleUser</Declaration>
+			
+			
+			<Anchor>//api/name/assumedRoleUser</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SecurityTokenServiceAssumeRoleWithSAMLResponse/assumedRoleUser</TokenIdentifier>
+			<Abstract type="html">The identifiers for the temporary security credentials that the
+operation returns.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) SecurityTokenServiceAssumedRoleUser *assumedRoleUser</Declaration>
+			
+			
+			<Anchor>//api/name/assumedRoleUser</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/setPackedPolicySize:</TokenIdentifier>
+			<Abstract type="html">A percentage value that indicates the size of the policy in packed
+form. The service rejects any policy with a packed size greater than
+100 percent, which means the policy exceeded the allowed space.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Range: &lt;/b&gt;0 - &lt;br/&gt;</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *packedPolicySize</Declaration>
+			
+			
+			<Anchor>//api/name/packedPolicySize</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/packedPolicySize</TokenIdentifier>
+			<Abstract type="html">A percentage value that indicates the size of the policy in packed
+form. The service rejects any policy with a packed size greater than
+100 percent, which means the policy exceeded the allowed space.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Range: &lt;/b&gt;0 - &lt;br/&gt;</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *packedPolicySize</Declaration>
+			
+			
+			<Anchor>//api/name/packedPolicySize</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SecurityTokenServiceAssumeRoleWithSAMLResponse/packedPolicySize</TokenIdentifier>
+			<Abstract type="html">A percentage value that indicates the size of the policy in packed
+form. The service rejects any policy with a packed size greater than
+100 percent, which means the policy exceeded the allowed space.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Range: &lt;/b&gt;0 - &lt;br/&gt;</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *packedPolicySize</Declaration>
+			
+			
+			<Anchor>//api/name/packedPolicySize</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SecurityTokenServiceAssumeRoleWithSAMLResponse/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>SecurityTokenServiceAssumeRoleWithSAMLResponse.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="890"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

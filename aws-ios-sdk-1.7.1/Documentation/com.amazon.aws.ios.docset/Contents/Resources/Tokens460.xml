@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/EC2ReportInstanceStatusResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/EC2ReportInstanceStatusResponse</TokenIdentifier>
+			<Abstract type="html">Report Instance Status</Abstract>
+			<DeclaredIn>EC2ReportInstanceStatusResponse.h</DeclaredIn>
+            
+			
+			<NodeRef refid="460"/>
+		</Token>
+		
+		
+        
+	</File>
+</Tokens>

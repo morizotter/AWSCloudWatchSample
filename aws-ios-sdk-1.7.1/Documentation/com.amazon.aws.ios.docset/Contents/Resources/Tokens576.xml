@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ElasticLoadBalancingLoadBalancerAttributes.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ElasticLoadBalancingLoadBalancerAttributes</TokenIdentifier>
+			<Abstract type="html">Load Balancer Attributes</Abstract>
+			<DeclaredIn>ElasticLoadBalancingLoadBalancerAttributes.h</DeclaredIn>
+            
+			
+			<NodeRef refid="576"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingLoadBalancerAttributes/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingLoadBalancerAttributes.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="576"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingLoadBalancerAttributes/setCrossZoneLoadBalancing:</TokenIdentifier>
+			<Abstract type="html">The name of the load balancer attribute.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingLoadBalancerAttributes.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingCrossZoneLoadBalancing *crossZoneLoadBalancing</Declaration>
+			
+			
+			<Anchor>//api/name/crossZoneLoadBalancing</Anchor>
+            <NodeRef refid="576"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingLoadBalancerAttributes/crossZoneLoadBalancing</TokenIdentifier>
+			<Abstract type="html">The name of the load balancer attribute.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingLoadBalancerAttributes.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingCrossZoneLoadBalancing *crossZoneLoadBalancing</Declaration>
+			
+			
+			<Anchor>//api/name/crossZoneLoadBalancing</Anchor>
+            <NodeRef refid="576"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingLoadBalancerAttributes/crossZoneLoadBalancing</TokenIdentifier>
+			<Abstract type="html">The name of the load balancer attribute.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingLoadBalancerAttributes.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingCrossZoneLoadBalancing *crossZoneLoadBalancing</Declaration>
+			
+			
+			<Anchor>//api/name/crossZoneLoadBalancing</Anchor>
+            <NodeRef refid="576"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingLoadBalancerAttributes/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingLoadBalancerAttributes.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="576"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

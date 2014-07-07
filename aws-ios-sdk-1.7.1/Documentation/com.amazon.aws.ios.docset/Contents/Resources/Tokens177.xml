@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/DynamoDBConsumedCapacity.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/DynamoDBConsumedCapacity</TokenIdentifier>
+			<Abstract type="html">Consumed Capacity</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+            
+			
+			<NodeRef refid="177"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/setTableName:</TokenIdentifier>
+			<Abstract type="html">The name of the table that was affected by the operation.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *tableName</Declaration>
+			
+			
+			<Anchor>//api/name/tableName</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/tableName</TokenIdentifier>
+			<Abstract type="html">The name of the table that was affected by the operation.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *tableName</Declaration>
+			
+			
+			<Anchor>//api/name/tableName</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBConsumedCapacity/tableName</TokenIdentifier>
+			<Abstract type="html">The name of the table that was affected by the operation.
+&lt;p&gt;
+&lt;b&gt;Constraints:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Length: &lt;/b&gt;3 - 255&lt;br/&gt;
+&lt;b&gt;Pattern: &lt;/b&gt;[a-zA-Z0-9_.-]+&lt;br/&gt;</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSString *tableName</Declaration>
+			
+			
+			<Anchor>//api/name/tableName</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/setCapacityUnits:</TokenIdentifier>
+			<Abstract type="html">The total number of capacity units consumed by the operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *capacityUnits</Declaration>
+			
+			
+			<Anchor>//api/name/capacityUnits</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/capacityUnits</TokenIdentifier>
+			<Abstract type="html">The total number of capacity units consumed by the operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *capacityUnits</Declaration>
+			
+			
+			<Anchor>//api/name/capacityUnits</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBConsumedCapacity/capacityUnits</TokenIdentifier>
+			<Abstract type="html">The total number of capacity units consumed by the operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSNumber *capacityUnits</Declaration>
+			
+			
+			<Anchor>//api/name/capacityUnits</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/setTable:</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on the table affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBCapacity *table</Declaration>
+			
+			
+			<Anchor>//api/name/table</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/table</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on the table affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBCapacity *table</Declaration>
+			
+			
+			<Anchor>//api/name/table</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBConsumedCapacity/table</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on the table affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) DynamoDBCapacity *table</Declaration>
+			
+			
+			<Anchor>//api/name/table</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/setLocalSecondaryIndexes:</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on each local index affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *localSecondaryIndexes</Declaration>
+			
+			
+			<Anchor>//api/name/localSecondaryIndexes</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/localSecondaryIndexes</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on each local index affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *localSecondaryIndexes</Declaration>
+			
+			
+			<Anchor>//api/name/localSecondaryIndexes</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBConsumedCapacity/localSecondaryIndexes</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on each local index affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *localSecondaryIndexes</Declaration>
+			
+			
+			<Anchor>//api/name/localSecondaryIndexes</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/setGlobalSecondaryIndexes:</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on each global index affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *globalSecondaryIndexes</Declaration>
+			
+			
+			<Anchor>//api/name/globalSecondaryIndexes</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/globalSecondaryIndexes</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on each global index affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *globalSecondaryIndexes</Declaration>
+			
+			
+			<Anchor>//api/name/globalSecondaryIndexes</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/DynamoDBConsumedCapacity/globalSecondaryIndexes</TokenIdentifier>
+			<Abstract type="html">The amount of throughput consumed on each global index affected by the
+operation.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) NSMutableDictionary *globalSecondaryIndexes</Declaration>
+			
+			
+			<Anchor>//api/name/globalSecondaryIndexes</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/setLocalSecondaryIndexesValue:forKey:</TokenIdentifier>
+			<Abstract type="html">Set a value in the dictionary localSecondaryIndexes for the specified key.
+This function will alloc and init localSecondaryIndexes if not already done.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>- (void)setLocalSecondaryIndexesValue:(DynamoDBCapacity *)theValue forKey:(NSString *)theKey</Declaration>
+			
+			
+			<Anchor>//api/name/setLocalSecondaryIndexesValue:forKey:</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/setGlobalSecondaryIndexesValue:forKey:</TokenIdentifier>
+			<Abstract type="html">Set a value in the dictionary globalSecondaryIndexes for the specified key.
+This function will alloc and init globalSecondaryIndexes if not already done.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>- (void)setGlobalSecondaryIndexesValue:(DynamoDBCapacity *)theValue forKey:(NSString *)theKey</Declaration>
+			
+			
+			<Anchor>//api/name/setGlobalSecondaryIndexesValue:forKey:</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/DynamoDBConsumedCapacity/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>DynamoDBConsumedCapacity.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="177"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

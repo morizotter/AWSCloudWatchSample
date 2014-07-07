@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse</TokenIdentifier>
+			<Abstract type="html">Describe Load Balancer Attributes Result</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.h</DeclaredIn>
+            
+			
+			<NodeRef refid="547"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse/setException:</TokenIdentifier>
+			<Abstract type="html">If an exception was thrown, this will return the exception.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.h</DeclaredIn>
+			
+			<Declaration>- (void)setException:(AmazonServiceException *)theException</Declaration>
+			
+			
+			<Anchor>//api/name/setException:</Anchor>
+            <NodeRef refid="547"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse/init</TokenIdentifier>
+			<Abstract type="html">Default constructor for a new  object.  Callers should use the
+property methods to initialize this object after creating it.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.h</DeclaredIn>
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+            <NodeRef refid="547"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse/setLoadBalancerAttributes:</TokenIdentifier>
+			<Abstract type="html">The load balancer attributes structure.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingLoadBalancerAttributes *loadBalancerAttributes</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerAttributes</Anchor>
+            <NodeRef refid="547"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse/loadBalancerAttributes</TokenIdentifier>
+			<Abstract type="html">The load balancer attributes structure.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingLoadBalancerAttributes *loadBalancerAttributes</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerAttributes</Anchor>
+            <NodeRef refid="547"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse/loadBalancerAttributes</TokenIdentifier>
+			<Abstract type="html">The load balancer attributes structure.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, retain) ElasticLoadBalancingLoadBalancerAttributes *loadBalancerAttributes</Declaration>
+			
+			
+			<Anchor>//api/name/loadBalancerAttributes</Anchor>
+            <NodeRef refid="547"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/ElasticLoadBalancingDescribeLoadBalancerAttributesResponse/description</TokenIdentifier>
+			<Abstract type="html">Returns a string representation of this object; useful for testing and
+debugging.</Abstract>
+			<DeclaredIn>ElasticLoadBalancingDescribeLoadBalancerAttributesResponse.h</DeclaredIn>
+			
+			<Declaration>- (NSString *)description</Declaration>
+			
+			<ReturnValue><Abstract type="html">A string representation of this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/description</Anchor>
+            <NodeRef refid="547"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>
