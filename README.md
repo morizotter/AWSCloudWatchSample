@@ -16,6 +16,8 @@ Just output log of your recent expense from CloudWatch. It's really easy to take
 6. See **ACSViewContrlller.m** how to write.
 7. Done!
 
+See also, my [Japanese Blog post](http://blog.morizotter.com/2014/07/08/get-data-from-aws-cloudwatch-with-ios/).
+
 ## Lisense
 
 Feel free to use this code.
